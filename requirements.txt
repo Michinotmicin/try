@@ -1,3 +1,4 @@
 pandas
 altair
 numerize
+streamlit_option_menu
